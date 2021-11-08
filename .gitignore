@@ -1,1 +1,6 @@
-0-starter-project/
+# misc
+.DS_Store
+
+#IDEA
+.idea
+.vscode
